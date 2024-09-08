@@ -29,7 +29,11 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)  
 ![BACKEND](http://img.shields.io/badge/-Backend-grey?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-black?style=flat-square&logo=spring&logoColor=6DB33F)
+![Spring Core](https://img.shields.io/badge/-Spring%20Core-black?style=flat-square&logo=spring&logoColor=6DB33F)
+![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-black?style=flat-square&logo=spring&logoColor=6DB33F)
+![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate&logoColor=59666C)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs&logoColor=339933)  
 ![DEVOPS](http://img.shields.io/badge/-DevOps-grey?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032)
@@ -43,6 +47,7 @@
 ![TOOLS](http://img.shields.io/badge/-Tools-grey?style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=FF6C37)
+
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -67,7 +72,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/aishwarypratap"><img src="https://img.shields.io/badge/-Aishwary%20Pratap-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/aishwary-pratap"><img src="https://img.shields.io/badge/-Aishwary%20Pratap-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:harshrajaparmar17@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/Aishwary001"><img src="https://img.shields.io/badge/-Aishwary%20Pratap-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 </p>

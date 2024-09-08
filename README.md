@@ -7,7 +7,7 @@
 🎓 &nbsp;Pursuing B.Tech in Information Technology at ITM Gwalior (2024).  
 🌱 &nbsp;Currently exploring Spring MVC, Java Full-Stack Development, and improving my DSA skills.  
 💬 &nbsp;Feel free to reach out to me for tech discussions, project collaborations, or just a chat about coding!  
-✉️ &nbsp;You can send me an email at [aishwary.pratap@example.com](mailto:aishwaryparmar17@example.com). I will try to get back to you as soon as I can!
+✉️ &nbsp;You can send me an email at [harshrajaparmar17@gmail.com](mailto:harshrajaparmar17@gmail.com). I will try to get back to you as soon as I can!
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -68,7 +68,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/aishwarypratap"><img src="https://img.shields.io/badge/-Aishwary%20Pratap-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:aishwary.pratap@example.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://twitter.com/aishwarypratap" target="_blank"><img src="https://img.shields.io/badge/-aishwarypratap-00acee?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Profile" /></a>&nbsp;
-<a href="https://github.com/aishwarypratap"><img src="https://img.shields.io/badge/-Aishwary%20Pratap-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="mailto:harshrajaparmar17@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Aishwary001"><img src="https://img.shields.io/badge/-Aishwary%20Pratap-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 </p>

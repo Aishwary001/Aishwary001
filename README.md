@@ -5,7 +5,7 @@
 💡 &nbsp;I love diving into new technologies and developing innovative software solutions.  
 👨‍💻 &nbsp;Aspiring Full-Stack Developer with a passion for Backend Development in Java.  
 🎓 &nbsp;Pursuing B.Tech in Information Technology at ITM Gwalior (2024).  
-🌱 &nbsp;Currently exploring Spring MVC, Java Full-Stack Development, and improving my DSA skills.  
+🌱 &nbsp;Currently exploring Backend development, MERN Stack Development, and improving my DSA skills.  
 💬 &nbsp;Feel free to reach out to me for tech discussions, project collaborations, or just a chat about coding!  
 ✉️ &nbsp;You can send me an email at [harshrajaparmar17@gmail.com](mailto:harshrajaparmar17@gmail.com). I will try to get back to you as soon as I can!
 
@@ -29,24 +29,26 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)  
 ![BACKEND](http://img.shields.io/badge/-Backend-grey?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-black?style=flat-square&logo=spring&logoColor=6DB33F)
-![Spring Core](https://img.shields.io/badge/-Spring%20Core-black?style=flat-square&logo=spring&logoColor=6DB33F)
-![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-black?style=flat-square&logo=spring&logoColor=6DB33F)
-![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate&logoColor=59666C)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs&logoColor=339933)  
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=764ABC)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=FFFFFF)   
 ![DEVOPS](http://img.shields.io/badge/-DevOps-grey?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=2496ED)  
 ![DATABASES](http://img.shields.io/badge/-Databases-grey?style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1)  
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=47A248)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma&logoColor=FFFFFF)   
 ![FRONTEND](http://img.shields.io/badge/-Frontend-grey?style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB)  
 ![TOOLS](http://img.shields.io/badge/-Tools-grey?style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=FF6C37)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=googlecloud&logoColor=4285F4)
 
 
 <p align="left">

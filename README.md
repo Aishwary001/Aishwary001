@@ -9,7 +9,7 @@
 🎓 &nbsp;B.Tech in Information Technology at ITM Gwalior.  
 🌱 &nbsp;Currently working on: Microservices, system design, DSA, and AI-powered full-stack projects.  
 💬 &nbsp;Open to tech discussions, project collaborations, and entry-level Software Engineer opportunities.  
-✉️ &nbsp;You can email me at [harshrajaparmar17@gmail.com](mailto:harshrajaparmar17@gmail.com). I will try to get back to you as soon as I can!
+✉️ &nbsp;You can email me at [aishwaryparmar17@gmail.com](mailto:aishwaryparmar17@gmail.com). I will try to get back to you as soon as I can!
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
